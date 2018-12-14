@@ -1,0 +1,1 @@
+.cardsButtonsMobile{display:none}.cardsButtonsDesktop{display:block}@media print{.noprint{display:none}body,html{height:100%;margin:0!important;padding:0!important}}@media (max-width:960px){.qCardMobile{width:90vw}.modelCards{border-radius:15px;height:600px;width:auto}.cardsButtonsMobile{display:block}.cardsButtonsDesktop{display:none}}
